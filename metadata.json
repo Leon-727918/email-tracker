@@ -1,0 +1,5 @@
+{
+  "name": "FollowUp AI - Smart Email Manager",
+  "description": "An automated email management tool for Outlook that tracks responses and uses Gemini AI to generate gentle follow-up reminders, boosting productivity and response rates.",
+  "requestFramePermissions": []
+}
